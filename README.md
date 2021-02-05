@@ -7,8 +7,8 @@ Use the SCREEN_NAME to choose the right profile.
 ## Overview
 
 This is a NodeJs project created with the framework Express.js. using Hogan as its view engine.
-> Node.js is a framework that allow us to use JavaScript for backend. <br/>
-> Express.js is a Node.js framework that makes creating the app and managing the internal routing easier. <br/>
+> Node.js -  is a framework that allow us to use JavaScript for backend. <br/>
+> Express.js - is a Node.js framework that makes creating the app and managing the internal routing easier. <br/>
 > Hogan is an Express.js view engine that makes really easy rendering of HTML pages. <br/>
 
 This project is using Twitter's API user_timeline and public_metrics.
