@@ -11,7 +11,8 @@ This is a NodeJs project created with the framework Express.js. using Hogan as i
 > Express.js is a Node.js framework that makes creating the app and managing the internal routing easier. <br/>
 > Hogan is an Express.js view engine that makes really easy rendering of HTML pages. <br/>
 
-The webApp is using Twitter's API to get the last 50 tweets of the selected account and to get the actual metrics for every single tweet. 
+This project is using Twitter's API to get user and tweet data. <br/>
+
 
 ## Structure 
  
