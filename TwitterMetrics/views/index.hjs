@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel='stylesheet' href='/stylesheets/style.css'/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.rawgit.com/Chalarangelo/mini.css/v3.0.1/dist/mini-default.min.css">
+</head>
+<body>
+    <h1 style="text-align: center" >{{title}}</h1>
+
+    <header class="sticky">
+        <a href="http://127.0.0.1:3000" class="button">Home</a>
+    </header>
+
+    <h3>Get the average metrics from the selected profile.</h3>
+    <h5>@SCREEN_NAME</h5>
+    <h6>(Use the SCREEN_NAME after the "@")</h6>
+
+    <div class="row">
+        <div class="col-sm-12 col-md-6">
+            <p id="prof1">
+                <input type="text" id="prof_1" placeholder="SCREEN_NAME" onchange="callM('prof_1')"/>
+            </p>
+        </div>
+    </div>
+
+    <p>Average metrics: </p>
+
+    <div class="row" id="ciao"></div>
+
+    <footer class="sticky">
+        <p>{{footer}}</p>
+    </footer>
+
+    <script type="text/javascript" src="metriche.js"></script>
+</body>
+</html>

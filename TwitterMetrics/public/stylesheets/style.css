@@ -1,0 +1,14 @@
+body {
+  padding: 45px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+
+}
+
+a {
+  color: #00B7FF;
+}
+
+#para1 {
+  text-align: center;
+  color: red;
+}
