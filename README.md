@@ -12,8 +12,8 @@ This is a NodeJs project created with the framework Express.js. using Hogan as i
 > Hogan - is an Express.js view engine that makes really easy rendering of HTML pages. <br/>
 
 This project is using Twitter's API user_timeline and public_metrics.
-> user_timeline -  allows us to get the last tweets from a twitter account  https://api.twitter.com/2/tweets?ids=1204084171334832128&tweet.fields=public_metrics&expansions=attachments.media_keys&media.fields=public_metrics' --header 'Authorization: Bearer $BEARER_TOKEN <br/>
-> public_metrics -  allows us to get the metrics of a specific tweet <br/>
+> user_timeline -  allows us to get the last tweets from a twitter account https://developer.twitter.com/en/docs/twitter-api/metrics <br/>
+> public_metrics -  allows us to get the metrics of a specific tweet https://developer.twitter.com/en/docs/twitter-api/v1/tweets/timelines/api-reference/get-statuses-user_timeline <br/>
 
 To "beat" the CORS policy of Twitter's API the project contain also a proxy (made as before in Node.js with Express.js), more on that in the next segment.
 
