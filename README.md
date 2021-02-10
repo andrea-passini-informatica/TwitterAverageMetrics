@@ -39,7 +39,7 @@ Main App provide both frontend, user interface and AjaxCall to the proxy, and ba
 > The interface of the project is made with mini.css a css library. <br/>
 
 The interface is really simple, is composed by a simple form and a button. <br/>
-The button allows us to refresh the page. <br/>
+The button allows us to refresh the html page. <br/>
 The form, once it is filled, i will call a function of the scripped atached to the html page <br/>
 
 
