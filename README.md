@@ -40,6 +40,7 @@ Main App provide both frontend, user interface and AjaxCall to the proxy, and ba
 
 The interface is really simple, is composed by a simple form and a button. <br/>
 The button allows us to refresh the page. <br/>
+The form, once it is filled, i will  <br/>
 
 
 ### beat-cors-server-master
