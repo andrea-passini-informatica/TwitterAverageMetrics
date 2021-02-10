@@ -35,7 +35,7 @@ Main App provide both frontend, user interface and AjaxCall to the proxy, and ba
 >For TwitterMetrics it will be App.js -> Index.js -> Index.hjs -> Metriche.js <br/>
 
 ### TwitterMetrics
-- INTERFACE <br/>
+- **INTERFACE** <br/>
 The interface of the project is made with mini.css a css library
 
 
