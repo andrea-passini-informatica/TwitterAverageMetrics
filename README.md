@@ -36,7 +36,7 @@ Main App provide both frontend, user interface and AjaxCall to the proxy, and ba
 
 ### TwitterMetrics
 - **Interface** <br/>
-The interface of the project is made with mini.css a css library
+The interface of the project is made with mini.css a css library. <br/>
 
 
 ### beat-cors-server-master
