@@ -30,7 +30,7 @@ Main App provide both frontend, user interface and AjaxCall to the proxy, and ba
 
 ## Code
 
->If you are new to the Express world, this is how to read in rigth way the files: <br/>
+>If you are new to the Express world, this is how to read in the rigth way the files: <br/>
 >Server -> RouteScript -> FileRender -> Script inside the HTML page. <br/>
 >For TwitterMetrics it will be App.js -> Index.js -> Index.hjs -> Metriche.js <br/>
 
@@ -52,7 +52,7 @@ Make sure to install Node.js, Express.js, Hogan and then use the command (in Nod
 I used Nodemon as demon to support the execution and apply the changes made to the code really fast.
 
 For each of the webApp:
-Open folder off the project and use the command nodemon start.
+Open folder of the project and use the command nodemon start.
 
 Go to your browser and navigate to the localhost, port number 3000.
 The proxy will listen on port number 3002.
